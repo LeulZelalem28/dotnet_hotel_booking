@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\bin\Debug\net7.0\Room.Contracts.deps.json
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\bin\Debug\net7.0\Room.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\bin\Debug\net7.0\Room.Contracts.pdb
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.AssemblyInfo.cs
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\refint\Room.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\Room.Contracts.pdb
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\Room.Contracts\obj\Debug\net7.0\ref\Room.Contracts.dll

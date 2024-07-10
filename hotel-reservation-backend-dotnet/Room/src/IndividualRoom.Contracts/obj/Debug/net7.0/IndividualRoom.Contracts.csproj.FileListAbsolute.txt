@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\bin\Debug\net7.0\IndividualRoom.Contracts.deps.json
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\bin\Debug\net7.0\IndividualRoom.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\bin\Debug\net7.0\IndividualRoom.Contracts.pdb
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.AssemblyInfo.cs
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\refint\IndividualRoom.Contracts.dll
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\IndividualRoom.Contracts.pdb
+C:\Users\hp\Desktop\hotel-reservation-backend-dotnet\Room\src\IndividualRoom.Contracts\obj\Debug\net7.0\ref\IndividualRoom.Contracts.dll
